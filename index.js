@@ -3,7 +3,7 @@ linkTag.setAttribute("rel", "canonical");
 linkTag.setAttribute("href", "https://kroma.works");
 
 // TODO: make it dynamic, maybe even fetch from DB
-const url = "https://kroma.works";
+const url = "https://heydrop.me/kKo_tay5gp1hek";
 
 var metaTag = document.createElement("meta");
 metaTag.setAttribute("http-equiv", "refresh");
